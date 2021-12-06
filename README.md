@@ -203,7 +203,7 @@ while True:
             print("Data Mahasiswa Tidak Ada".format(nama))
 ```
 
-## sekian dan terima kasih
+# Sekian & Terima Kasih
                                                  
                                                
 
