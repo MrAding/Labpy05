@@ -76,7 +76,7 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 # Flowchart
 
-  ![FLOW](screenshot/SS4.png)
+![flowchart](https://user-images.githubusercontent.com/46867774/144898791-fa9aac94-c9c7-4d79-9ea7-f5bffc43ae89.png)
 
 # Penjelasan
 1. ``dataMahasiswa = {}`` Berikut adalah dictionary yang di definisikan terlebih dahulu.
