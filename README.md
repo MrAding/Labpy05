@@ -96,7 +96,7 @@ while True:
 * Jika ``q`` di input dan ``lower()`` digunakan untuk mengkonversi input yang dimasukan ke bentuk lower case dan Input q digunakan berdasarkan perintah yang sudah di masukan dalam keterangan pada fungsi input di bawah ini :
 ```python
     elif (c.lower() == 'q'):
-        print("\n Febriyani \n 312110239 \n TI.21.A.2")
+        print("\n Muhammad Rafi Al Ghifari \n 312110526 \n TI.21.BA.1")
         break
     else:
         print("Pilih menu yang tersedia: ") 
@@ -202,8 +202,7 @@ while True:
         else:
             print("Data Mahasiswa Tidak Ada".format(nama))
 ```
-9. **Menampilkan hasil output**
-![gambar output](screenshot/SS3.png)
+
 ## sekian dan terima kasih
                                                  
                                                
