@@ -1,3 +1,8 @@
+```
+Nama    : Muhammad Rafi Al Ghifari
+Nim     : 312110526
+Kelas   : TI.20.BA.1
+```
 # Labpy05
 
 ### TugasLatihan 5 
