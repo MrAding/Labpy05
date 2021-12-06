@@ -60,7 +60,7 @@ print(30*"═")
 
 ## Hasil Output
 
-![gambar output](screenshot/SS1.png)
+![output latihan 1](https://user-images.githubusercontent.com/46867774/144899332-0f724b7c-c1a3-4ab6-b1ed-600a1b4bb95e.png)
 
 ## Praktikum 5
 
