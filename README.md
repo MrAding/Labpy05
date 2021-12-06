@@ -2,7 +2,7 @@
 
 ### TugasLatihan 5 
 
-![gambar output](screenshot/soallatihan5.PNG)
+https://raw.githubusercontent.com/Febriyaninurhida123/Lab5/main/screenshot/soallatihan5.PNG
 
 ## Source Code Latihan 5
 ```python
