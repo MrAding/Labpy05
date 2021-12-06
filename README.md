@@ -2,7 +2,7 @@
 
 ### TugasLatihan 5 
 
-https://raw.githubusercontent.com/Febriyaninurhida123/Lab5/main/screenshot/soallatihan5.PNG
+![soal latihan 1](https://user-images.githubusercontent.com/46867774/144895259-ab1c94f7-fba2-4112-af00-c6f41f64f4d9.PNG)
 
 ## Source Code Latihan 5
 ```python
@@ -64,7 +64,7 @@ print(30*"═")
 
 ## Praktikum 5
 
-![gambar output](screenshot/soalpraktikum5.png)
+![praktikum](https://user-images.githubusercontent.com/46867774/144895424-9bde4cb8-cc31-432f-9bde-686b7a012225.PNG)
 
 # soal praktikum5
 Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan : 
